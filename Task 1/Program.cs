@@ -1,4 +1,4 @@
-﻿int a1 = 15;
+﻿
 int b1 = 21;
 int c1 = 39;
 int a2 = 12;
@@ -7,7 +7,7 @@ int c2 = 33;
 int a3 = 13;
 int b3 = 23;
 int c3 = 313;
-
+int a1 = 15;
 int max = a1;
 if (b1 > max) max = b1;
 if (c1 > max) max = c1;
